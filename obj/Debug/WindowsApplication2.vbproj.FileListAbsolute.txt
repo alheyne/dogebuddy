@@ -1,0 +1,17 @@
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.exe.config
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.exe.manifest
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.application
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.exe
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.pdb
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Ðoge Buddy.xml
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\dogebuddy.Form1.resources
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\dogebuddy.Resources.resources
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.TrustInfo.xml
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.exe.manifest
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.application
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.exe
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.xml
+C:\Users\crazyal\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Ðoge Buddy.pdb
